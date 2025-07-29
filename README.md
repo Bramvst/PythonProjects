@@ -18,3 +18,17 @@ Then run the script via the terminal or an IDE like VS Code or PyCharm:
 
 ```bash
 python PythonQuiz.py
+---------------------------------------------------------------------------------------------------------
+# The classic Hangman game
+The good old hangman game which I built based on a youtube video to practice my Python skills.
+
+## 🚀 How does it works
+There is a secret word, which you have to guess. You guess a letter and the program tells you whether the letter appears in the word or not. You get a set amount of guesses.
+
+## ▶️ Try it out
+
+Make sure you have Python (3.x) installed.  
+Then run the script via the terminal or an IDE like VS Code or PyCharm:
+
+```bash
+python Hangman.py
