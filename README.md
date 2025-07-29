@@ -1,19 +1,20 @@
 # 🧠 Python Quiz App
 
-Een eenvoudige quiz-app in Python die ik gebouwd heb na het bekijken van een YouTube-tutorial.  
-Ik heb het basisidee uitgebreid met wat extra functies, waaronder:
+A simple quiz app in Python that I built based on a YouTube tutorial.  
+I expanded the basic version with a few extra features, including:
 
-- Zelf kiezen hoeveel vragen je krijgt
-- Mogelijkheid om de quiz opnieuw te spelen
+- Choose how many questions you want to answer
+- Option to play the quiz again after finishing
 
-## 🚀 Hoe werkt het?
+## 🚀 How does it work?
 
-De quiz stelt je meerkeuzevragen. Aan het begin kies je hoeveel vragen je wilt krijgen. Na afloop krijg je je score te zien en de mogelijkheid om opnieuw te spelen.
+The quiz asks you multiple choice questions. At the beginning, you choose how many questions you want.  
+After finishing, you'll see your score and have the option to play again.
 
-## ▶️ Uitproberen
+## ▶️ Try it out
 
-Zorg dat je Python (3.x) hebt geïnstalleerd.  
-Voer dan het script uit via de terminal of een IDE zoals VS Code of PyCharm:
+Make sure you have Python (3.x) installed.  
+Then run the script via the terminal or an IDE like VS Code or PyCharm:
 
 ```bash
-python quiz.py
+python PythonQuiz.py
